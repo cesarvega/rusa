@@ -1,5 +1,8 @@
 # Cesar custom code 
 Content/test-assets
+# Content/animations # este symbolo significa que no lo lee el compilador\  #### ok so el folder animations si va subir al repo miremos el repo 
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -70,7 +73,6 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/*/Intermediate/*
-
+Plugins/*/Intermediate/* 
 # Cache files for the editor to use
 DerivedDataCache/*
